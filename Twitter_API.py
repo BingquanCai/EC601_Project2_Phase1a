@@ -21,8 +21,3 @@ i=1
 for tweet in public_tweets:
     print(str(i)+'. '+tweet.text+'\n')
     i=i+1
-
-
-
-
-
