@@ -18,3 +18,12 @@ I use `api.user_timeline()` to get tweets of the user by timeline. In the `api.u
 
 ## Tests and Results
 
+Here is the example that I use my [Twitter_API.py](https://github.com/BingquanCai/EC601_Project2_Phase1a/blob/main/Twitter_API.py) to get tweets of the user by timeline.
+
+![online](https://raw.githubusercontent.com/BingquanCai/Pictures/main/BUTweets_online.jpg)
+
+As you can see, when I get to the homepage of Boston University, I am not able to get multiple tweets from Boston University within the screen due to the screen size limitation.
+
+![API](https://raw.githubusercontent.com/BingquanCai/Pictures/main/BUTweets.jpg)
+
+If I type in the id of Boston University and set the count to 5, I will get 5 recent tweets from Boston University by timeline.
